@@ -11,4 +11,4 @@ To run, download the folder and click the file "index.html".
 Examples of use cases can be found in the publication https://pubs.acs.org/doi/10.1021/acs.jcim.1c00028. 
 
 # Credits
-Tzyy-Shyang Lin and Nathan J. Rebello
+Tzyy-Shyang Lin and Nathan J. Rebello from the Olsen group at MIT
